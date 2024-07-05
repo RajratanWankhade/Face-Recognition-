@@ -1,7 +1,8 @@
 # Face-Recognition-
-Face Recognition Monitoring in AWS
 
+Face Detection : When Camera Detects a Person, Extract Person Feature and Put those features in Database.
 
+Business Logic Code: Checking if the new person is already present in Database. 
 
 
 ## Setting Up Environment
